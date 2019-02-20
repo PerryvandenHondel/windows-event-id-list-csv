@@ -2,4 +2,4 @@
 Windows Event ID list in CSV format
 
 Sources used:
-# https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/default.aspx
+* https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/default.aspx
